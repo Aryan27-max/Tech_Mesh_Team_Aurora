@@ -6,10 +6,10 @@ export default function InfoBanner() {
       <div className="flex flex-wrap items-center gap-4 mb-3">
         <div className="bg-orange-100 px-3 py-1 rounded-full text-orange-800 font-semibold flex items-center space-x-1 hover:bg-orange-200 transition-colors">
           <Calendar className="h-4 w-4" />
-          <span>Date: 22-Sep-25</span>
+          <span>Date: 23-Sep-25</span>
         </div>
         <div className="bg-blue-100 px-3 py-1 rounded-full text-blue-800 font-semibold hover:bg-blue-200 transition-colors">
-          Day Order: 3
+          Day Order: 4
         </div>
       </div>
       

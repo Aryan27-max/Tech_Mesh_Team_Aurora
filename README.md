@@ -1,6 +1,6 @@
 # Team_L2A
 
-# 🚀 Campus Productivity & Placement Intelligence
+# 🚀 Campus Productivity & Managment
 
 An AI-driven platform designed to help universities and companies improve **placement outcomes** by:
 - Highlighting high-potential students.

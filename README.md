@@ -68,3 +68,13 @@ Vanilla is a **Transformer-based model** that fetches and analyzes **real-time j
 ## 📌 License
 B2B SaaS model licensed to **Universities & Corporates**.  
 
+---
+
+# Made with ❤ by - 
+## [Aryan27-max](https://github.com/Aryan27-max)
+
+## [Ammoditaa123](https://github.com/Ammoditaa123)
+
+## [ShreyashPoddar](https://github.com/ShreyashPoddar)
+  
+
